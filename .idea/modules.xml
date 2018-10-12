@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-Module2-Refactoring3.iml" filepath="$PROJECT_DIR$/Java-Module2-Refactoring3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCodeRefactoringMethodExtraction.iml" filepath="$PROJECT_DIR$/CleanCodeRefactoringMethodExtraction.iml" />
     </modules>
   </component>
 </project>
